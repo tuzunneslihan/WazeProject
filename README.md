@@ -13,7 +13,7 @@ See my [final presentation](https://github.com/tuzunneslihan/WazeProject/blob/ma
 
 ## Python Codes
 
-Check out the entired python code of [income](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20Salaries%20.ipynb) and [commute choice](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20TravelDesicionSurvey%20.ipynb) for this project.
+Check out the entired python code of [income](https://github.com/tuzunneslihan/WazeProject/blob/master/SF%20Salaries%20.ipynb) and [commute choice](https://github.com/NeslihanTuzun/GA-PROJECT/blob/master/SF%20TravelDesicionSurvey%20.ipynb) for this project.
 
 ## Project Summary
 
